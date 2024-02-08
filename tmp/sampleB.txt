@@ -1,0 +1,11 @@
+CSV Format:
+FirstName, Age
+Mary, 24
+Alina, 25
+John, 24
+Nicole, 26
+Mike, 24
+
+Persons with age over 24
+Alina, 25
+Nicole, 26
