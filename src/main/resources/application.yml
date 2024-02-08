@@ -1,4 +1,4 @@
 file:
-  nameTxt1: "/sampleA.txt"
-  nameTxt2: "/sampleB.txt"
+  nameTxt1: "/a.txt"
+  nameTxt2: "/b.txt"
   directory: tmp
